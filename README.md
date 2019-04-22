@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+git remote add origin https://github.com/eurayenko/Meme-Generator.git
+
 ## Available Scripts
 
 In the project directory, you can run:
